@@ -1,0 +1,5 @@
+1.CR2-raakakuva kamerasta
+2.Avataan kritassa
+3.Discard color data
+4.Lossless PNG without compression
+5.Skimage muuntaa uint8 ndarray avatessa
